@@ -2,7 +2,7 @@
 
 This folder contains:
 
-* `app.js`: A Node.js "Hello, World" app that listens on port 8080.
+* `app.js`: A Node.js "Hello, World" app that listens on port 443.
 * `app.config.js`: A config file for running the Node.js sample app using PM2 as a process supervisor.
 * `sample-app.pkr.hcl`: A Packer template for creating an AMI for the Node.js sample app.
 
